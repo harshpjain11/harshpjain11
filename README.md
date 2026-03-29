@@ -1,5 +1,6 @@
 ## Hi there 👋
  🎓 About Me
+- Name: Harsh jain
 - 📚 Branch: Core CSE  
 - 🎯 Batch: 2025  
 - 🎓 Graduation Year: 2029  
